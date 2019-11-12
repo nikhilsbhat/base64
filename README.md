@@ -1,8 +1,7 @@
 # base64
 
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/nikhilsbhat/base64)](https://goreportcard.com/report/github.com/nikhilsbhat/base64)  [![shields](https://img.shields.io/badge/license-apache%20v2-blue)](https://github.com/nikhilsbhat/base64/blob/master/LICENSE)
-
+[![Go Report Card](https://goreportcard.com/badge/github.com/nikhilsbhat/base64)](https://goreportcard.com/report/github.com/nikhilsbhat/base64)
 
 A utility that helps to encode and decode your data in [base64](https://en.wikipedia.org/wiki/Base64).
 
