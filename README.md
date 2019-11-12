@@ -4,12 +4,12 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/nikhilsbhat/base64)](https://goreportcard.com/report/github.com/nikhilsbhat/base64)  [![shields](https://img.shields.io/badge/license-apache%20v2-blue)](https://github.com/nikhilsbhat/base64/blob/master/LICENSE)
 
 
-A utility which helps to switch between multiple [Kubernetes](https://kubernetes.io/) clusters of [GKE](https://cloud.google.com/kubernetes-engine/).
+A utility that helps to encode and decode your data in [base64](https://en.wikipedia.org/wiki/Base64).
 
 ## Introduction
 
-There are multiple online platform where one can easily encode and decode their data into base64 format.
-What if someone wants to encode/decode the data in base64 format without connecting to internet?
+There are multiple online platform where one can easily encode/ decode their data into base64 format.
+What if someone wants to achieve the same without connecting to internet?
 
 Yes, exactly in such circumstances this utility base64 comes in handy.
 
