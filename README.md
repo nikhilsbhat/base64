@@ -20,7 +20,7 @@ go build
 ```
 One can start using the executable just like any other go application.
 
-If incase few need to use this in your piece of code? import package in your code.
+Want to use this in your piece of code? import package in your code.
 ```golang
 import (
     "github.com/nikhilsbhat/base64"
